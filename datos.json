@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "The Dark Side of the Moon",
+        "artista": "Pink Floyd",
+        "descripcion": "Un icónico álbum de rock progresivo.",
+        "imagen_url": "https://example.com/dark_side_of_the_moon.jpg"
+    },
+    {
+        "nombre": "Led Zeppelin IV",
+        "artista": "Led Zeppelin",
+        "descripcion": "Uno de los álbumes más influyentes en la historia del rock.",
+        "imagen_url": "https://example.com/led_zeppelin_iv.jpg"
+    },
+    {
+        "nombre": "Hotel California",
+        "artista": "Eagles",
+        "descripcion": "Un clásico del rock de los años 70.",
+        "imagen_url": "https://example.com/hotel_california.jpg"
+    },
+    {
+        "nombre": "Back in Black",
+        "artista": "AC/DC",
+        "descripcion": "Uno de los álbumes de hard rock más vendidos de todos los tiempos.",
+        "imagen_url": "https://example.com/back_in_black.jpg"
+    },
+    {
+        "nombre": "The Wall",
+        "artista": "Pink Floyd",
+        "descripcion": "Un álbum conceptual que aborda temas profundos.",
+        "imagen_url": "https://example.com/the_wall.jpg"
+    },
+    {
+        "nombre": "Born to Run",
+        "artista": "Bruce Springsteen",
+        "descripcion": "Un clásico del rock americano.",
+        "imagen_url": "https://example.com/born_to_run.jpg"
+    },
+    {
+        "nombre": "Abbey Road",
+        "artista": "The Beatles",
+        "descripcion": "Un álbum emblemático de los Fab Four.",
+        "imagen_url": "https://example.com/abbey_road.jpg"
+    },
+    {
+        "nombre": "Rumours",
+        "artista": "Fleetwood Mac",
+        "descripcion": "Un álbum lleno de emociones y melodías memorables.",
+        "imagen_url": "https://example.com/rumours.jpg"
+    },
+    {
+        "nombre": "Highway to Hell",
+        "artista": "AC/DC",
+        "descripcion": "Un clásico del rock duro.",
+        "imagen_url": "https://example.com/highway_to_hell.jpg"
+    },
+    {
+        "nombre": "Sticky Fingers",
+        "artista": "The Rolling Stones",
+        "descripcion": "Un álbum que captura la esencia del rock 'n' roll.",
+        "imagen_url": "https://example.com/sticky_fingers.jpg"
+    }
+]
