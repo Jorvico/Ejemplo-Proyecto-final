@@ -8,6 +8,5 @@ const mongoConnect = async () => {
         console.log('Error en la conexion a la base de datos', err)
     }
 }
-mongoConnect();
 
 module.exports = mongoConnect
